@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fs-87-react-node-imiryna/static/css/main.c9958860.css",
-    "main.js": "/fs-87-react-node-imiryna/static/js/main.00415638.js",
+    "main.js": "/fs-87-react-node-imiryna/static/js/main.648235d0.js",
     "static/js/796.2d6c07ae.chunk.js": "/fs-87-react-node-imiryna/static/js/796.2d6c07ae.chunk.js",
     "static/js/860.c0960870.chunk.js": "/fs-87-react-node-imiryna/static/js/860.c0960870.chunk.js",
     "static/js/751.80813fa0.chunk.js": "/fs-87-react-node-imiryna/static/js/751.80813fa0.chunk.js",
@@ -42,7 +42,7 @@
     "static/media/plus.svg": "/fs-87-react-node-imiryna/static/media/plus.e230c17eccfc72c82b63b96575ac344a.svg",
     "static/media/close.svg": "/fs-87-react-node-imiryna/static/media/close.2d39ebec4a0b09e9a5de64dc02d5c5f2.svg",
     "main.c9958860.css.map": "/fs-87-react-node-imiryna/static/css/main.c9958860.css.map",
-    "main.00415638.js.map": "/fs-87-react-node-imiryna/static/js/main.00415638.js.map",
+    "main.648235d0.js.map": "/fs-87-react-node-imiryna/static/js/main.648235d0.js.map",
     "796.2d6c07ae.chunk.js.map": "/fs-87-react-node-imiryna/static/js/796.2d6c07ae.chunk.js.map",
     "860.c0960870.chunk.js.map": "/fs-87-react-node-imiryna/static/js/860.c0960870.chunk.js.map",
     "751.80813fa0.chunk.js.map": "/fs-87-react-node-imiryna/static/js/751.80813fa0.chunk.js.map",
@@ -55,6 +55,6 @@
   },
   "entrypoints": [
     "static/css/main.c9958860.css",
-    "static/js/main.00415638.js"
+    "static/js/main.648235d0.js"
   ]
 }
